@@ -13,7 +13,7 @@ The game is over when all the cards have been matched
 
 ### Construction ###
 *I used the original Unit 2 Project Submission as the base for the memory game application
-*I added an additional page for the game along with a new CSS file and a JS file
+*I added an additional page for the game along with a new CSS file and a JS file (choose-your-adventure.html)
 *Using Javascript to apply event listeners, for loops, manipulating the DOM and an assortment of arrays to execute the game functionality
 *counter to count the number of moves made by player and timer to know the duration of a play
 *added effects to cards when they match and are unmatched
